@@ -1,0 +1,17 @@
+h1 {
+  color: #5f5f5f;
+  margin-top: 40px;
+  margin-right: 50px;  
+
+}
+
+.progress {
+  margin-bottom: 20px;
+  width: 70%;
+  height: 22px;
+  margin-left: 150px;
+}
+
+.container {
+  margin-top: 10px;
+}
